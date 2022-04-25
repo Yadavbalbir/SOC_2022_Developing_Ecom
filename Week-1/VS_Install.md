@@ -10,6 +10,6 @@ Click here(https://code.visualstudio.com/) to download VS Code.
 ### During installation 
 Make sure to check all the box when it asks for **select additional Tools** as shown in the image below.
 
-![setup](Week-1/vssetup.jpeg)
+![setup](vssetup.jpeg)
 
 
