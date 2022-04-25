@@ -1,12 +1,10 @@
-<div id='vs_install'/>
-
-## Visual Studio Installation
+## Visual Studio Installation  <a name = "vs_install"></a>
 
 Click here(https://code.visualstudio.com/) to download VS Code. 
 
 **Note**
-    1. If you are using windows then down for windows and MacOs for Mac.
-    2. make sure you are downloading **stable** version. (Stable Build). 
+1. If you are using windows then down for windows and MacOs for Mac.
+2. make sure you are downloading **stable** version. (Stable Build). 
 
 
 ### During installation 
