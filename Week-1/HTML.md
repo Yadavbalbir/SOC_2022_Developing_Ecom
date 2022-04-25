@@ -9,7 +9,8 @@
 - HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
 
 ### Basic structure of HTML Document 
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html>
 <head>
 <title>Page Title</title>
@@ -20,6 +21,8 @@
 <p>My first paragraph.</p>
 
 </body>
-</html>```
+</html>
+
+```
 
 Everytime you want to make webpages, you will have to write this basic syntex. Everything that will be visible on the website will be written inside `<body>` tag. 
