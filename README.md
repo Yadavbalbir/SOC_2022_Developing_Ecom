@@ -5,4 +5,4 @@ Hello everyone! I'm Balbir Yadav, 2nd year UG student from the department of Mec
 **Note:** This public repository is going to be very helpful for this project. I'll be sharing learning resources and others technical details in this repository. 
 
 ## Table of contents
-- [Week-1](#id-section1)
+- [Week-1](Week-1#id-section1)
