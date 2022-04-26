@@ -36,6 +36,6 @@ It is not important to memorize syntex. Syntex can be viewed on google in just o
 
 ### **Task**
 - HTML video tutorial-1(https://www.youtube.com/watch?v=XiQ9rjaa2Ow)  English
-- HTML video tutorial-2(https://www.youtube.com/watch?v=XiQ9rjaa2Ow)  (Recommended + "You will enjoy a lot") Hindi
+- HTML video tutorial-2(https://www.youtube.com/watch?v=BsDoLVMnmZs&t=430s)  (Recommended + "You will enjoy a lot") Hindi
 - HTML Reading tutorial (https://www.w3schools.com/html/html_intro.asp) (if you don't like video tutorial)
 
