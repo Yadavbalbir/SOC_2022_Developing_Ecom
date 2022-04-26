@@ -32,10 +32,10 @@ Everytime you want to make webpages, you will have to write this basic syntex. E
 It is not important to memorize syntex. Syntex can be viewed on google in just one search. But it is really important to understand the structure, concept and what is used to build your requirement. Suppose I want to create a form where users can enter their details like name, address, email etc. You can easily get syntex for making form in just one search. But what you must understand or I would say you must know that there is a specific way to make forms in Html and you must be familiar with it. 
 
 
-**Note** You can either watch video tutorial-1 OR 2 but I recommend video tutorial-2
+**Note** You can either watch video tutorial-1 OR 2 but I would recommend watching video tutorial-2
 
 ### **Task**
 - HTML video tutorial-1(https://www.youtube.com/watch?v=XiQ9rjaa2Ow)  English
 - HTML video tutorial-2(https://www.youtube.com/watch?v=XiQ9rjaa2Ow)  (Recommended + "You will enjoy a lot") Hindi
-- HTML Course W3school (https://www.w3schools.com/html/html_intro.asp) (if you don't like video tutorial)
+- HTML Reading tutorial (https://www.w3schools.com/html/html_intro.asp) (if you don't like video tutorial)
 

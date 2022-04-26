@@ -6,7 +6,9 @@
 - This tutorial will teach you CSS from basic to advanced.
 
 **Again Note** 
-You don't have remember everything but you have to understand the working/implementation. You can always google according to your need. But Basics must be clear. 
+You don't have to remember everything but you have to understand the working/implementation. You can always google according to your need. But Basics must be clear. 
+
+**Note** You can either watch video tutorial-1 OR 2 but I would recommend watching tutorial-2
 
 ### **Task**
 - CSS tutorial-1(https://www.youtube.com/watch?v=Tfjd5yzCaxk)  very short just to get overview and working.
