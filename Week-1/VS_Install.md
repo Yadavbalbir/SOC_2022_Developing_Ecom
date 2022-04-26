@@ -1,5 +1,5 @@
-## Visual Studio Installation  <a name = "vs_install"></a>
-
+## Visual Studio Code Installation  <a name = "vs_install"></a>
+We will be using VS Code which is source-code editor made by Microsoft for Windows, Linux and macOS. 
 Click here(https://code.visualstudio.com/) to download VS Code. 
 
 **Note**
