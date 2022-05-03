@@ -16,7 +16,7 @@ Watch(https://www.youtube.com/watch?v=vpAJ0s5S2t0&t=6250s) tutorial and complete
 
 **Coding Task**
 
-1. This week you'll build simple Landing Page (Home Page) for your e-commerce website. You can see how does it look like here(homepage_image.md#hp_img).  Note that if you have watched week-1 contents properly and Learned how to Google😎, Then It wouldn't be difficult for you. 
+1. This week you'll build simple Landing Page (Home Page) for your e-commerce website. You can see how does it look like [here](homepage_image.md#hp_img).  Note that if you have watched week-1 contents properly and Learned how to Google😎, Then It wouldn't be difficult for you. 
 
 **Learning Task**
 2. python(https://www.youtube.com/watch?v=rfscVS0vtbw) bit long but worth watching and coding. Ideally you should enjoy.😍
