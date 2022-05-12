@@ -7,3 +7,4 @@ Hello everyone! I'm Balbir Yadav, UG student from the department of Mechanical e
 ## Table of contents
 - [Week-1](Week-1#week1)
 - [week-2](Week-2#week2)
+- [week-3](Week-3#week3)
